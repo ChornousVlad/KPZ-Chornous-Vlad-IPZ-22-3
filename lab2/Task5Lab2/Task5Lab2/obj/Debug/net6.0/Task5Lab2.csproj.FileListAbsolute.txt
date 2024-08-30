@@ -1,0 +1,15 @@
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\obj\Debug\net6.0\Task5Lab2.csproj.AssemblyReference.cache
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\obj\Debug\net6.0\Task5Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\obj\Debug\net6.0\Task5Lab2.AssemblyInfoInputs.cache
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\obj\Debug\net6.0\Task5Lab2.AssemblyInfo.cs
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\obj\Debug\net6.0\Task5Lab2.csproj.CoreCompileInputs.cache
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\bin\Debug\net6.0\Task5Lab2.exe
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\bin\Debug\net6.0\Task5Lab2.deps.json
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\bin\Debug\net6.0\Task5Lab2.runtimeconfig.json
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\bin\Debug\net6.0\Task5Lab2.dll
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\bin\Debug\net6.0\Task5Lab2.pdb
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\obj\Debug\net6.0\Task5Lab2.dll
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\obj\Debug\net6.0\refint\Task5Lab2.dll
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\obj\Debug\net6.0\Task5Lab2.pdb
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\obj\Debug\net6.0\Task5Lab2.genruntimeconfig.cache
+D:\КПЗ\KPZ\lab2\Task5Lab2\Task5Lab2\obj\Debug\net6.0\ref\Task5Lab2.dll

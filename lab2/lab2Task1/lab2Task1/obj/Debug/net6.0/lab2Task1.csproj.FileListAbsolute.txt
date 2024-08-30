@@ -1,0 +1,15 @@
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\bin\Debug\net6.0\lab2Task1.exe
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\bin\Debug\net6.0\lab2Task1.deps.json
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\bin\Debug\net6.0\lab2Task1.runtimeconfig.json
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\bin\Debug\net6.0\lab2Task1.dll
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\bin\Debug\net6.0\lab2Task1.pdb
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\obj\Debug\net6.0\lab2Task1.csproj.AssemblyReference.cache
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\obj\Debug\net6.0\lab2Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\obj\Debug\net6.0\lab2Task1.AssemblyInfoInputs.cache
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\obj\Debug\net6.0\lab2Task1.AssemblyInfo.cs
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\obj\Debug\net6.0\lab2Task1.csproj.CoreCompileInputs.cache
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\obj\Debug\net6.0\lab2Task1.dll
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\obj\Debug\net6.0\refint\lab2Task1.dll
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\obj\Debug\net6.0\lab2Task1.pdb
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\obj\Debug\net6.0\lab2Task1.genruntimeconfig.cache
+D:\КПЗ\KPZ\lab2\lab2Task1\lab2Task1\obj\Debug\net6.0\ref\lab2Task1.dll
